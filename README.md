@@ -8,17 +8,13 @@ Data Analysis with Covid dataset of 2020.
 
 The dataset contains 6 dataset files. These files used for covid analysis.
 # Analysis
-    o	Highest scorer batter in in overall IPL 2022
-    o	Lowest scorer batters in in overall IPL 2022
-    o	Bowler who takes highest number of wickets over all IPL
-    o	Bowler who takes zero wickets over all IPL
-    o	Stats of top 5 bowlers
-    o	Top fielder who takes catches
-    o	Top fielder who takes run out
-    o	Wickets stats between catches and run out
-    o	No. of toss won by each team with stats
-    o	Team that wins by highest run margin/run chase in overall IPL
-
+    o	Maharashtra and Kerala have the highest number of cases.
+    o	India,Wuhan,Italy and Korea active cases details datewise.
+    o	Worldwide active corona cases graph.
+    o	Cases rising datewise.
+    o	Statswise cases In India.
+    o	Top States with corona cases.
+    
 
 
 ## Prior Knowledge
